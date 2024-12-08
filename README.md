@@ -59,13 +59,11 @@
         <h2>Contact Us</h2>
         <p>If you need further assistance, please contact us at:</p>
         <p>
-            📧 <a href="mailto:soroban.league@gmail.com">support@sorobanleague.com</a>
+            📧 <a href="mailto:soroban.league@gmail.com">soroban.league@gmail.com</a>
         </p>
-        <h2>Frequently Asked Questions (FAQs)</h2>
-        <p>Check out our FAQ section (coming soon!) for answers to common questions.</p>
     </main>
     <footer>
-        <p>&copy; 2024 Soroban League. All rights reserved.</p>
+        <p>&copy; 2024 Soroban league. All rights reserved.</p>
     </footer>
 </body>
 </html>
