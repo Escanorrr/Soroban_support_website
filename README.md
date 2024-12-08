@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,7 +45,7 @@
 </head>
 <body>
     <header>
-        <h1>Soroban League Support</h1>
+        <h1 style="color: white;">Soroban League Support</h1>
     </header>
     <main>
         <h2>How can we help you?</h2>
@@ -60,7 +59,7 @@
         <h2>Contact Us</h2>
         <p>If you need further assistance, please contact us at:</p>
         <p>
-            📧 <a href="mailto:support@sorobanleague.com">support@sorobanleague.com</a>
+            📧 <a href="mailto:soroban.league@gmail.com">support@sorobanleague.com</a>
         </p>
         <h2>Frequently Asked Questions (FAQs)</h2>
         <p>Check out our FAQ section (coming soon!) for answers to common questions.</p>
